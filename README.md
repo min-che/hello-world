@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+This is a test.
+
+Just following a tutorial.
+
+Move on, nothing to see.
